@@ -1,7 +1,7 @@
 # Titanic Competition
 * Rank: 297/12.885 - top 2.3%
 * Leaderboard Accuracy: 82.535%
-* [Kaggle Notebook](https://www.kaggle.com/competitions/titanic/data) - Please "Upvote" if you find helpful - this helps other Kaggler to find it more easily!
+* [Kaggle Notebook](https://www.kaggle.com/code/hoaiphongnguyen/how-to-get-82-5-in-titanic-leaderboard) - Please "Upvote" if you find helpful - this helps other Kaggler to find it more easily!
 
 # Original Features: 
 | Variable | Definition | Key |
