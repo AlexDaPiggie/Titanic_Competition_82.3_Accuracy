@@ -34,6 +34,7 @@
     * Supported Vector Machines
     * K Nearest Neighbors 
     * Gaussian Naive Bayes
+* KNeighborsClassifier and GaussianNB perform with poor accuracy on train-validation set
 
 # Hyper-parameter Tuning: Optuna Framework
 ## *model's objective* function
@@ -59,4 +60,12 @@
 |SVC|78%|
 |ExtraTreesClassifier|81.3%|
 |CatBoostClassifier|77%|
-|Voting Classifier (random forest + logisic regression) | 82.5%| 
+|Voting Classifier (random forest + logistic regression) | 82.5%| 
+
+# Reference
+
+This notebook couldn't been completed without referencing the wonderful works of the following authors:
+* https://www.kaggle.com/code/thomascharuel/titanic-getting-above-80-accuracy
+* https://www.kaggle.com/code/krishnamishras/titanic-prediction-model-84-accuracy
+* https://www.kaggle.com/code/abhishek0032/titanic-survival-prediction-feature-engineering
+* https://www.kaggle.com/code/vinothan/titanic-model-with-90-accuracy
